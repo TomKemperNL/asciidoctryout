@@ -1,0 +1,3 @@
+= Test voor ADoc vs markdown
+
+Zie xref:src/docs/asciidoc/hello.adoc[hier]
